@@ -1,1 +1,22 @@
 /* write your override styles here */
+.tag-1 {
+    display: none;
+  }
+  #tag-2 {
+    display: none;
+  }
+  .slick.wicked#tag-3 {
+    display: none;
+  }
+  .parent #tag-4 {
+    display: none;
+  }
+  .parent #tag-5.slick {
+    display: none;
+  }
+  .parent div > div #tag-6 {
+    display: none;
+  }
+  .parent div > div #tag-7.slick {
+    display: none;
+  }  
